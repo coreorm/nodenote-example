@@ -1,0 +1,30 @@
+{
+  "name": "nodenote-example",
+  "version": "1.0.0",
+  "description": "example for nodejs Nodenote module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreorm/nodenote-example.git"
+  },
+  "dependencies": {
+    "nodenote":"*",
+    "express": "~4.2.0",
+    "express-session": "^1.8.2"
+  },
+  "keywords": [
+    "nodenote",
+    "nodejs",
+    "internal",
+    "notification"
+  ],
+  "author": "CoreORM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreorm/nodenote-example/issues"
+  },
+  "homepage": "https://github.com/coreorm/nodenote-example#readme"
+}
